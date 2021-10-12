@@ -1,0 +1,130 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    background-color: #FFFEF7;
+}
+
+/* utility */
+
+.width{
+    width: 100%;
+}
+
+
+/* Top Margin */
+.top-margin{
+    height: 8px;
+    background: rgb(82,80,80);
+}
+
+
+
+/*  */
+
+.main{
+    width: 100% ;
+    background-color: #ffffff;
+    margin: 0 auto;
+    max-width: 600px;
+    border-spacing: 0;
+    color: #4a4a4a;
+}
+
+/*  */
+
+.wrapper{
+    width: 100%;
+    table-layout: fixed;
+    padding-bottom: 40px;
+    background: #cccccc
+    ;
+}
+
+/* Logo */
+.logo-image a img{
+    width: 80px;
+    padding-right: 50px;
+   
+
+}
+
+.logo-image a img{
+    align-items: center;
+}
+
+.logo-image {
+    text-align: center;
+}
+
+.promo-image a img{
+    width: 600px;
+    max-width: 100%;
+}
+
+ .align{
+     text-align: center;
+     font-size: 25px;
+     color: white;
+     padding-bottom: 5px;
+ }
+ .align p{
+     background: rgb(109,192,255);
+ }
+
+ /* two columns image */
+ .colum td  a img{
+     width: 300px;
+     max-width: 100%;
+     padding-bottom: 40px;
+ }
+
+ .two-colums{
+     text-align: center;
+     font-size: 0;
+     padding: 40px 0 ;
+ }
+ .two-colums .colum{
+     width: 100%;
+     max-width: 300px;
+     display: inline-block;
+     vertical-align: top;
+     text-align: center;
+     font-size: 18px;
+     padding-bottom: 40px;
+     
+ }
+ .two-colums{
+     display: flex;
+ }
+
+ /* Button */
+ .button{
+     background: rgb(109,192,255);
+     color: white;
+     text-decoration: none;
+     padding: 15px 20px;
+     border-radius: 4px;
+ }
+
+ /* footer area */
+ .last{
+     background: #efefef;
+     text-align: center;
+ }
+
+ .last-data{
+     background: #969696;
+     height: 3px;
+ }
+
+ .last-in{
+     font-size: 22px;
+     padding: 5px;
+ }
+
+ /* social */
+ .social{
+     text-align: center;
+     padding: 25px 0 35px;
+     background: #efefef;
+ }
